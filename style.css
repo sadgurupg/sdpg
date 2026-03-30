@@ -1,24 +1,30 @@
 body {
-  background: pink;
-  text-align: center;
   font-family: Arial;
+  background: #fff0f5;
+  text-align: center;
 }
 
 h1 {
-  color: red;
-  font-size: 40px;
+  color: #d63384;
+}
+
+h2 {
+  color: #444;
 }
 
 p {
-  font-size: 20px;
+  font-size: 18px;
 }
 
-button {
-  padding: 12px 20px;
+ul {
+  list-style: none;
+}
+
+li {
   font-size: 18px;
-  background: red;
-  color: white;
-  border: none;
-  border-radius: 10px;
-  cursor: pointer;
+  margin: 5px;
+}
+
+hr {
+  margin: 20px;
 }
